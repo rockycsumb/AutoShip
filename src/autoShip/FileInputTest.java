@@ -18,7 +18,7 @@ public class FileInputTest
       
       try
       {
-         outPutStream = new PrintWriter(new FileOutputStream("stuff.txt", true));
+         outPutStream = new PrintWriter(new FileOutputStream("stuff.txt", false));
       }
       catch(FileNotFoundException e)
       {
@@ -27,8 +27,8 @@ public class FileInputTest
       }
       
       System.out.println("Writing to file");
-      outPutStream.println("adding more stuff");
-      outPutStream.println("andddddd adddddddddding more text");
+      outPutStream.print("adding more stuff" + "," + "andddddd adddddddddding more text" );
+     // outPutStream.print( + ",");
       
       
       

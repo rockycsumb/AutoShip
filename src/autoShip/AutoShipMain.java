@@ -1,15 +1,13 @@
 package autoShip;
 
-import java.io.PrintWriter;
-import java.io.FileOutputStream;
-import java.io.FileNotFoundException;
-
 public class AutoShipMain
 {
+   private static GuiAutoShip myGui;
 
-   public AutoShipMain()
+   public static void main(String[] args)
    {
-      // TODO Auto-generated constructor stub
+      myGui = new GuiAutoShip();
+      myGui.setVisible(true);
    }
-
 }
+

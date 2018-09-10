@@ -1,4 +1,466 @@
-this is data
-This is a new line of data
-adding more stuff
-andddddd adddddddddding more text
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801436013 CNTABW34-2 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 NET 60 DAYS
+Inco1 Inco2 Total Net Weight
+Ex works 2.205 LB
+Sold to: ICG2010
+Thermo Fisher Scientific (China) Co. Ltd
+Jinqiao Exper Zone
+Bldg 6,27 Xin Jinqiao Rd.
+201206 SHANGHAI
+CHINA
+Ultimate Consignee: ICG2010
+Company
+Thermofisher Scientific (China) Co.Ltd
+赛默飞世尔科技
+U7 warehouse, Prologis Logistics Park 2
+Dongsheng Doad No.229
+Pudong New Area ,Shanghai 201201
+BAOFENG, YIN 021-34715879
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 LC186 Solvent bottles 1 PK 43.27 USD 43.27 USD
+Net Weight: 2.205 LB
+Country Of Origin: US
+Commodity Code: 7010.90.0510
+Total Value 43.27 USD
+Ultimate Destination : China
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801431772 CNF18W29-4 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 NET 60 DAYS
+Inco1 Inco2 Total Net Weight
+Ex works 4.409 LB
+Sold to: ICG2010
+Thermo Fisher Scientific (China) Co. Ltd
+Jinqiao Exper Zone
+Bldg 6,27 Xin Jinqiao Rd.
+201206 SHANGHAI
+CHINA
+Ultimate Consignee: ICG2010
+Company
+Thermofisher Scientific (China) Co.Ltd
+赛默飞世尔科技
+U7 warehouse, Prologis Logistics Park 2
+Dongsheng Doad No.229
+Pudong New Area ,Shanghai 201201
+BAOFENG, YIN 021-34715879
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 072042 PROD,EC DETECTOR,DC 1 EA 2,224.73 USD 2,224.73 USD
+Net Weight: 4.409 LB
+Country Of Origin: US
+Commodity Code: 9027.90.5625
+Total Value 2,224.73 USD
+Ultimate Destination : China
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801431773 CNF18W30-3 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 NET 60 DAYS
+Inco1 Inco2 Total Net Weight
+Ex works 4.409 LB
+Sold to: ICG2010
+Thermo Fisher Scientific (China) Co. Ltd
+Jinqiao Exper Zone
+Bldg 6,27 Xin Jinqiao Rd.
+201206 SHANGHAI
+CHINA
+Ultimate Consignee: ICG2010
+Company
+Thermofisher Scientific (China) Co.Ltd
+赛默飞世尔科技
+U7 warehouse, Prologis Logistics Park 2
+Dongsheng Doad No.229
+Pudong New Area ,Shanghai 201201
+BAOFENG, YIN 021-34715879
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 072042 PROD,EC DETECTOR,DC 1 EA 2,224.73 USD 2,224.73 USD
+Net Weight: 4.409 LB
+Country Of Origin: US
+Commodity Code: 9027.90.5625
+Total Value 2,224.73 USD
+Ultimate Destination : China
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801436874 4500680554 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 NET 60 DAYS
+Inco1 Inco2 Total Net Weight
+Ex works 0.23 LB
+Sold to: ICG2010
+Thermo Fisher Scientific (China) Co. Ltd
+Jinqiao Exper Zone
+Bldg 6,27 Xin Jinqiao Rd.
+201206 SHANGHAI
+CHINA
+Ultimate Consignee: ICG2010
+Thermofisher Scientific (China) Co., Ltd
+Contact: Shen Zhiqiang
+Warehouse#2, No.958, Yuan Hang Road, Pu Dong New District
+201202 SHANGHAI
+CHINA
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 00110-03-00036 KIT, RHEBUILD, FOR PD715-000, RoHS 2 EA 739.19 USD 1,478.37 USD
+Net Weight: 0.115 LB
+Country Of Origin: US
+Commodity Code: 8481.20.0040
+Total Value 1,478.37 USD
+Ultimate Destination : China
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801436874 4500680554 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 NET 60 DAYS
+Inco1 Inco2 Total Net Weight
+Ex works 0.23 LB
+Sold to: ICG2010
+Thermo Fisher Scientific (China) Co. Ltd
+Jinqiao Exper Zone
+Bldg 6,27 Xin Jinqiao Rd.
+201206 SHANGHAI
+CHINA
+Ultimate Consignee: ICG2010
+Thermofisher Scientific (China) Co., Ltd
+Contact: Shen Zhiqiang
+Warehouse#2, No.958, Yuan Hang Road, Pu Dong New District
+201202 SHANGHAI
+CHINA
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 00110-03-00036 KIT, RHEBUILD, FOR PD715-000, RoHS 2 EA 739.19 USD 1,478.37 USD
+Net Weight: 0.115 LB
+Country Of Origin: US
+Commodity Code: 8481.20.0040
+Total Value 1,478.37 USD
+Ultimate Destination : China
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801436923 CNF18W22-5 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 NET 60 DAYS
+Inco1 Inco2 Total Net Weight
+Ex works 1.984 LB
+Sold to: ICG2010
+Thermo Fisher Scientific (China) Co. Ltd
+Jinqiao Exper Zone
+Bldg 6,27 Xin Jinqiao Rd.
+201206 SHANGHAI
+CHINA
+Ultimate Consignee: ICG2010
+Company
+Thermofisher Scientific (China) Co.Ltd
+赛默飞世尔科技
+U7 warehouse, Prologis Logistics Park 2
+Dongsheng Doad No.229
+Pudong New Area ,Shanghai 201201
+BAOFENG, YIN 021-34715879
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 00960-01-00058 PM Kit for Rocket Evaporator Rotor 1 EA 343.93 USD 343.93 USD
+Net Weight: 1.984 LB
+Country Of Origin:
+Commodity Code: 8479.90.9496
+Total Value 343.93 USD
+Ultimate Destination : China
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801433491 4500676919 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 InterCompany Netting
+Inco1 Inco2 Total Net Weight
+Ex works 10.6 LB
+Sold to: ICG3000
+Thermo Fisher Scientific Korea Ltd.
+Kookmin 1st Bldg. 6th FL, 302
+Yeogdong-daero, Gangnam-gu
+06177 SEOUL
+SOUTH KOREA
+Ultimate Consignee: ICG3000
+Thermo Fisher Scientific Korea Ltd.
+(gate10)50, Gonghangdong-ro 193 beon-gil
+Jung-gu
+The designated customs office warehouse
+Incheon, Korea
+22381 SEOUL
+SOUTH KOREA
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 ES081 EASY-SPRAY SOURCE KIT 1 EA 11,285.96 USD 11,285.96 USD
+Net Weight: 10.600 LB
+Country Of Origin: MY
+Commodity Code: 9027.90.8400
+Total Value 11,285.96 USD
+Ultimate Destination : South Korea
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801436841 4500664495 1 / 1
+Create Date Sales No. Payment Terms
+27/08/2018 NET 60 DAYS
+Inco1 Inco2 Total Net Weight
+Ex works 0.011 LB
+Sold to: ICG2010
+Thermo Fisher Scientific (China) Co. Ltd
+Jinqiao Exper Zone
+Bldg 6,27 Xin Jinqiao Rd.
+201206 SHANGHAI
+CHINA
+Ultimate Consignee: ICG2010
+Thermofisher Scientific (China) Co., Ltd
+Contact: Shen Zhiqiang
+Warehouse#2, No.958, Yuan Hang Road, Pu Dong New District
+201202 SHANGHAI
+CHINA
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 97055-20273 NEEDLE,26 GAUGE EXTENDED 1 EA 96.13 USD 96.13 USD
+Net Weight: 0.011 LB
+Country Of Origin: US
+Commodity Code: 9018.32.0000
+Total Value 96.13 USD
+Ultimate Destination : China
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801432173 4500679309 1 / 2
+Create Date Sales No. Payment Terms
+27/08/2018 InterCompany Netting
+Inco1 Inco2 Total Net Weight
+Ex works 6.216 LB
+Sold to: ICG2900
+Thermo Fisher Scientific Pte Ltd.
+Blk 33
+Marsiling Industrial Estate Road 3
+#07-06 Singapore
+SINGAPORE 739256
+SINGAPORE
+Ultimate Consignee: ICG2900
+Thermo Fisher Scientific Pte Ltd.
+Blk 33
+Marsiling Industrial Estate Road 3
+#07-06 Singapore
+SINGAPORE 739256
+SINGAPORE
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+FedEx Intl Priority
+10 053942 PROD,COL,IP,AG15,4X50MM 1 EA 252.54 USD 252.54 USD
+Net Weight: 1.323 LB
+Country Of Origin: US
+Commodity Code: 8421.29.0065
+20 055058 Vial Kt 10mL Polystyrene-CapsSepta 100ea 1 EA 79.35 USD 79.35 USD
+Net Weight: 1.508 LB
+Country Of Origin: US
+Commodity Code: 3926.90.9910
+30 064139 IonPac AG22 Guard Column, 4x50mm 1 EA 252.54 USD 252.54 USD
+Net Weight: 2.205 LB
+Country Of Origin: US
+Commodity Code: 8421.29.0065
+40 072784 PROD,COL,IP,AG22-FAST,4X30MM 1 EA 238.39 USD 238.39 USD
+Net Weight: 0.485 LB
+Country Of Origin: US
+Commodity Code: 8421.29.0065
+50 079936 PROD,COL,IP,AS22-FAST,4X150MM 1 EA 761.35 USD 761.35 USD
+Net Weight: 0.397 LB
+Country Of Origin: US
+Commodity Code: 9027.90.5625
+60 083217 IonPac AS19 4μm, Analyt. Column, 4x250mm 1 EA 836.80 USD 836.80 USD
+Net Weight: 0.064 LB
+Country Of Origin: US
+Commodity Code: 8421.29.0065
+Commercial Invoice
+USA
+San Jose, CA 95134
+355 River Oaks Parkway
+Thermo Finnigan LLC
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+Item Material No. Description Qty Unit Price Net Value
+Inco1 Inco2 Total Net Weight
+Ex works 6.216 LB
+Carrier AWB No Transport
+FedEx Intl Priority
+Invoice No. Customer Order No. Page
+801432173 4500679309 2 / 2
+Create Date Sales No. Payment Terms
+27/08/2018 InterCompany Netting
+70 083221 IonPac AG19 4μm, Guard Column, 4x50mm 1 EA 276.31 USD 276.31 USD
+Net Weight: 0.234 LB
+Country Of Origin: US
+Commodity Code: 8421.29.0065
+Total Value 2,697.28 USD
+Ultimate Destination : Singapore
+
