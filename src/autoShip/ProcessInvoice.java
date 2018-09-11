@@ -14,6 +14,10 @@ import javax.swing.JFileChooser;
 class ProcessInvoice implements ActionListener
 {
    PrintWriter dataOutput = null;
+   public static String[] lines;
+   public static int count;
+   
+   InvoiceExtractor invoice;
    
    ProcessInvoice()
    {
@@ -23,17 +27,18 @@ class ProcessInvoice implements ActionListener
    
    public void actionPerformed(ActionEvent e)
    {
-      String[] lines = GuiAutoShip.inputTextArea.getText().split("\\n");
-      //outputTextArea.setText(inputTextArea.getText());
+      lines = GuiAutoShip.inputTextArea.getText().split("\\n");
       
-      int count = lines.length;
+      count = lines.length;
       
       System.out.println("the text contains " + count + " many lines");
       
+      invoice = new InvoiceExtractor();
      
       for (int index = 0; index < count; index++)
       {
-        GuiAutoShip.outputTextArea.append("Hello " + lines[index] +  "ending Invoice " + "\n");
+        //GuiAutoShip.outputTextArea.append("[ " + index +" ]" + " " + lines[index] +  "ending Invoice " + "\n");
+        //System.out.println("[ " + index +" ]" + " " + lines[index] +  "\n");
         
       }
       
@@ -52,7 +57,8 @@ class ProcessInvoice implements ActionListener
         dataOutput.print(lines[index]);    
       }
       
-      
+      // OPEN LOCATION OF CSV FILE
+      /**  
       try
       {
          Desktop.getDesktop().open(new File("C:\\Users\\rocky.moreno\\Documents\\GitHub\\AutoShip"));
@@ -61,6 +67,6 @@ class ProcessInvoice implements ActionListener
          // TODO Auto-generated catch block
          e1.printStackTrace();
       }
-     
+     **/
    }
 }

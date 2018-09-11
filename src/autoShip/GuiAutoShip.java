@@ -38,7 +38,7 @@ public class GuiAutoShip extends JFrame
          JPanel inputTextPanel = new JPanel();
          inputTextPanel.setLayout(new FlowLayout());
          
-         inputTextArea = new JTextArea("Insert invoices here", 20, 40);
+         inputTextArea = new JTextArea(20, 40);
          inputTextArea.setBackground(Color.white);
          
          scrolledInputText = new JScrollPane(inputTextArea);
