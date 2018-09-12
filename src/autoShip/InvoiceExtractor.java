@@ -4,6 +4,7 @@ public class InvoiceExtractor
 {
    boolean deliveryInfoComing = false;
    boolean deliveryInfoFound = false;
+   boolean isValidDeliveryNumber = false;
    
    int deliveryNumber = 0;
    int invoiceStartIndex = 0;
@@ -17,23 +18,41 @@ public class InvoiceExtractor
 
    public InvoiceExtractor()
    {
+      /********************************
+      / Invoice Extractor Algorithm   *
+      /********************************/
+      
       for (int index = 0; index < ProcessInvoice.count; index++)
       {
            
         if (ProcessInvoice.lines[index].equals("Commercial Invoice"))
         {
            deliveryInfoComing = true;
+           
+           //TESTING
            //System.out.println("line is this long " + ProcessInvoice.lines[10].length());
         }
         
         
+        // CHECK IF IT IS REALLY A DELIVERY NUMBER // CHECKER
+        
+        if(deliveryInfoComing)
+        {
+           deliveryInfoCheck(ProcessInvoice.lines[index]);
+           //ProcessInvoice.lines[index].length() == 26;
+           //deliveryNumber = Integer.parseInt(ProcessInvoice.lines[index].substring(0, 9));
+        }
+        
+        
+        
+        
         if (deliveryInfoComing == true && 
-            ProcessInvoice.lines[index].length() == 26 &&
+            isValidDeliveryNumber &&
             invoiceStartFound == false         
             )
         {
+           //TESTING
            //System.out.println(ProcessInvoice.lines[index]);
-           //deliveryInfoFound = true;
            
            invoiceStartIndex = index;
            invoiceStartFound = true;
@@ -42,12 +61,12 @@ public class InvoiceExtractor
            deliveryNumber = Integer.parseInt(ProcessInvoice.lines[index].substring(0, 9));
                  
            deliveryInfoComing = false;  
-           System.out.println("[ " + index +" ] " + " This is the delivery " + deliveryNumber);        
+           //System.out.println("[ " + index +" ] " + " This is the delivery " + deliveryNumber);        
         
         }
                
         if (deliveryInfoComing == true && 
-            ProcessInvoice.lines[index].length() == 26 &&
+            isValidDeliveryNumber &&
             invoiceStartFound == true &&
             invoiceEndFound == false  
             )
@@ -59,7 +78,7 @@ public class InvoiceExtractor
            {
               invoiceEndFound = true;
               invoiceEndIndex = index - 1;
-              System.out.println("Delivery: " + deliveryNumber + " Beg Index " + invoiceStartIndex + " End Index " + invoiceEndIndex);
+              //System.out.println("Delivery: " + deliveryNumber + " Beg Index " + invoiceStartIndex + " End Index " + invoiceEndIndex);
               
               // CHECK IF IT IS REALLY A DELIVERY NUMBER
               deliveryNumber = anotherDeliveryNumber;
@@ -71,7 +90,7 @@ public class InvoiceExtractor
               invoiceEndIndex = 0;
               invoiceEndFound = false;
                                   
-              System.out.println("[ " + index +" ] " + " This is the delivery " + deliveryNumber);  
+              //System.out.println("[ " + index +" ] " + " This is the delivery " + deliveryNumber);  
            }         
            
         }
@@ -80,7 +99,7 @@ public class InvoiceExtractor
         if (deliveryInfoComing == false && 
               invoiceStartFound == true && 
               index < ProcessInvoice.count &&
-              ProcessInvoice.lines[index].length() == 26
+              isValidDeliveryNumber
             )
         {
           // CHECK IF IT IS REALLY A DELIVERY NUMBER
@@ -89,12 +108,13 @@ public class InvoiceExtractor
           
           invoiceEndIndex = ProcessInvoice.count;
           System.out.println("Delivery: " + deliveryNumber + " Beg Index " + invoiceStartIndex + " End Index " + invoiceEndIndex);
+          
+          //TESTING
           //System.out.println("This is last delivery number recorded " + deliveryNumber);
         }
                
       }   
-      
-      
+           
       // For Testing to see Array
       /**
       for (int index = 0; index < ProcessInvoice.count; index++)
@@ -104,8 +124,17 @@ public class InvoiceExtractor
       **/
    }
    
-   private boolean checkDelivery(String deliveryInfo)
+   boolean deliveryInfoCheck(String deliveryInfo)
    {
+      if (deliveryInfo.length() == 26)
+      {
+         if (deliveryInfo.substring(0, 1).equals("8"))
+         {
+            System.out.println("from delivery check " + deliveryInfo.substring(0, 9));
+         }
+         
+      }
+      
       
       return true;
    }
