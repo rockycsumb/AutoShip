@@ -39,6 +39,7 @@ public class GuiAutoShip extends JFrame
          inputTextPanel.setLayout(new FlowLayout());
          
          inputTextArea = new JTextArea(20, 40);
+         
          inputTextArea.setBackground(Color.white);
          
          scrolledInputText = new JScrollPane(inputTextArea);

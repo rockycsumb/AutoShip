@@ -31,7 +31,7 @@ class ProcessInvoice implements ActionListener
       
       count = lines.length;
       
-      System.out.println("the text contains " + count + " many lines");
+      //System.out.println("the text contains " + count + " many lines");
       
       invoice = new InvoiceExtractor();
      
