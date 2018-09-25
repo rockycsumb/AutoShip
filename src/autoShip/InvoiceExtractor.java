@@ -6,35 +6,13 @@ public class InvoiceExtractor
 
    public InvoiceExtractor()
    {
-      InvoiceSeparator separate = new InvoiceSeparator();
+      InvoiceSeparator Separate = new InvoiceSeparator();
+      testArrayList();
       
-      /**
-      int row, col;
-      int startIndex = 0;
-      int endIndex = 0;
       
-      for(row = 0; row < separate.invoiceCount; row++)
-      {
-         for(col = 0; col < 2; col++)
-         {
-            if (col == 0)
-            {
-               startIndex = separate.indexes[row][col];
-               //System.out.println("start index " + startIndex); 
-            }
-            else if (col == 1)
-            {
-               endIndex = separate.indexes[row][col];
-               //System.out.println("end index " + endIndex); 
-            }
-         }
-         System.out.println("start index from array " + startIndex + " end index " + endIndex);
-         
-      }
-      **/
-   }
      
-   
+   }
+      
    
    /***************************
    /  CHECK IF IS A DELIVERY  *
@@ -51,6 +29,18 @@ public class InvoiceExtractor
          }      
       }
       return false;
+   }
+   
+   
+   public void testArrayList() 
+   {
+      InvoiceSeparator Separate = new InvoiceSeparator();
+      int row;
+      System.out.println("From Invoice Extractor");
+      for(row = 0; row < Separate.startIndexArray.size(); row++)
+      {
+       System.out.println("here is the start " + Separate.startIndexArray.get(row) + " here is the end " + Separate.endIndexArray.get(row));  
+      }  
    }
 }
 

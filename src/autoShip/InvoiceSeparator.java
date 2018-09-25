@@ -12,12 +12,12 @@ public class InvoiceSeparator
    boolean ultimateDestinationFound = false;
    int invoiceEndIndex = 0; 
    boolean invoiceEndFound = false;
-      
-   public static int [][] indexes = new int[ProcessInvoice.count][2];
+
    int indexesRow = 0;
-   int indexesCol = 0;
    
-   boolean isEndOfArray = false;
+   public static ArrayList<Integer> startIndexArray = new ArrayList<Integer>();
+   public static ArrayList<Integer> endIndexArray = new ArrayList<Integer>();
+   
    int index;
    public static int invoiceCount = 0;
 
@@ -71,28 +71,24 @@ public class InvoiceSeparator
                  ultimateDestinationFound)
            {
               invoiceEndIndex = index;
+              //Testing
               //System.out.println("The start index " + invoiceStartIndex + " the ending " + invoiceEndIndex);
-              
-              //insert indexes into array
-              indexes[indexesRow][indexesCol] = invoiceStartIndex;
-              
-              indexesCol++;
-              
-              indexes[indexesRow][indexesCol] = invoiceEndIndex;
+
+              insertIndexIntoArray(indexesRow, invoiceStartIndex, invoiceEndIndex);
               
               indexesRow++;
-              indexesCol = 0;
               
               //Count how many invoices
               invoiceCount++;
-              
-              
+                           
               //reset flags
               commercialInvoiceFound = false;
               invoiceStartFound = false;
               ultimateDestinationFound = false;
            }
            
+           //Testing
+           /**
            if (ProcessInvoice.lines[index].length() <= 26 && ProcessInvoice.lines[index].length() > 12)
            {
               if (ProcessInvoice.lines[index].substring(0, 1).equals("8"))
@@ -100,45 +96,34 @@ public class InvoiceSeparator
                  //System.out.println("from delivery check " + ProcessInvoice.lines[index].substring(0, 9));
               }
            }      
-           
+           **/
          } // END LOOP
          /****************************************/
          /*      END INVOICE EXTRACT LOOP        */
          /****************************************/
          
-         // TESTING ARRAY
-         /**
-         int row, col;
-         int startIndex = 0;
-         int endIndex = 0;
+        // For Testing 
+        //testArrayList();
          
-         for(row = 0; row < invoiceCount; row++)
-         {
-            for(col = 0; col < 2; col++)
-            {
-               if (col == 0)
-               {
-                  startIndex = indexes[row][col];
-                  //System.out.println("start index " + startIndex); 
-               }
-               else if (col == 1)
-               {
-                  endIndex = indexes[row][col];
-                  //System.out.println("end index " + endIndex); 
-               }
-            }
-            System.out.println("start index from array " + startIndex + " end index " + endIndex);
-            
-         }
-         **/
-         // For Testing to see Array
-         /**
-         for (int index = 0; index < ProcessInvoice.count; index++)
-         {      
-           System.out.println("[ " + index +" ]" + " " + ProcessInvoice.lines[index] +  "\n");       
-         }
-         **/
       }
+   
+   public void insertIndexIntoArray(int index, int startIndex, int endIndex)
+   {
+      startIndexArray.add(index, startIndex);
+      endIndexArray.add(index, endIndex);
+   }
+   
+   public void testArrayList()
+   {
+   // TESTING ARRAY
+      int row;
+      
+      for(row = 0; row < startIndexArray.size(); row++)
+      {
+       System.out.println("here is the start " + startIndexArray.get(row) + " here is the end " + endIndexArray.get(row));  
+      }
+      
+   }
          
   }
 
