@@ -19,11 +19,16 @@ SUBSIDIARY OF THERMO FISHER SCI
 Shibaura 4-2-8, Minato-ku
 Tokyo, TOKYO-TO
 108-0023 JAPAN
+
+
 Ultimate Consignee: ICG2030
 Thermo Fisher Scientific – Japan
 C-1F, 3-9 MORIYA-CHO KANAGAWA-KU
 Yokohama, KANAGAWA-KEN
 221-0022 JAPAN
+
+
+
 Contact Information Repeat Printout
 Email teresa.benavidez@thermofisher.com
 Fax
@@ -42,6 +47,7 @@ Country Of Origin: US
 Commodity Code: 9027.90.5625
 Total Value 69.19 USD
 Ultimate Destination : Japan
+
 Commercial Invoice
 These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
 the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
@@ -85,7 +91,10 @@ Net Weight: 0.331 LB
 Country Of Origin: US
 Commodity Code: 3917.32.0020
 Total Value 1,492.32 USD
+
+
 Ultimate Destination : Japan
+
 Commercial Invoice
 These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
 the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
@@ -190,3 +199,58 @@ Country Of Origin: US
 Commodity Code: 9027.90.5625
 Total Value 11,318.36 USD
 Ultimate Destination : Japan
+
+
+
+
+Commercial Invoice
+These items are controlled by the U.S. Government and authorized for export only to the country of ultimate destination for use by
+the ultimate consignee or end-user(s) herein identified. They may not be resold, transferred, or otherwise disposed of, to any other
+country or to any person other than the authorized ultimate consignee or end-user(s), either in their original form or after being
+incorporated into other items, without first obtaining approval from the U.S. government or as otherwise authorized by U.S.law and
+regulations.
+FEIN: 04-3535157
+For customs purpose only
+Item Material No. Description Qty Unit Price Net Value
+Invoice No. Customer Order No. Page
+801562658 WA-S18019 1 / 1
+Create Date Sales No. Payment Terms
+25/09/2018 5106156 InterCompany Netting
+Inco1 Inco2 Total Net Weight
+FCA-Shipper's Dock 1.102 LB
+Sold to: IC1623
+Thermo Fisher Scientific Taiwan Co., Ltd
+Neihu District
+6F-1 No.85 Jhouzih St.
+11493 TAIPEI
+TAIWAN
+
+
+Ship To: IC1623
+Thermo Fisher Scientific Taiwan Co., Ltd
+Neihu District
+6F-1 No.85 Jhouzih St.
+11493 TAIPEI
+TAIWAN
+
+
+Contact Information Repeat Printout
+Email teresa.benavidez@thermofisher.com
+Fax
+Phone 408-965-6000
+Contact Teresa Benavidez
+For inquires on commercial invoice
+NO CHARGE WARRANTY REPLACEMENT FOR RGA# 60537209
+VALUE FOR CUSTOM PURPOSES ONLY!
+Thermo Finnigan LLC
+355 River Oaks Parkway
+San Jose, CA 95134
+USA
+Carrier AWB No Transport
+OIA International
+10 80111-60610 ASSY, ION GUIDE RF BOARD, Q1 1 EA 0.00 USD 0.00 USD
+Net Weight: 1.102 LB
+Country Of Origin: MX
+Commodity Code: 9027.90.4500
+Total Value 0.00 USD
+Ultimate Destination : Taiwan

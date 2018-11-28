@@ -21,6 +21,7 @@ public class InvoiceSeparator
    int index;
    public static int invoiceCount = 0;
 
+   // Default Constructor
    public InvoiceSeparator()
    {
       
@@ -104,6 +105,100 @@ public class InvoiceSeparator
          
         // For Testing 
         //testArrayList();
+         
+      }
+   
+   
+   // Parameterized Constructor
+   public InvoiceSeparator(ArrayList<String> lines)
+   {
+      
+      /***************************
+      /  Separate Invoices       *
+      /***************************/ 
+      
+      /**************************************/
+      /* Invoice Extractor Algorithm LOOP   */
+      /**************************************/
+        
+      for (index = 0; index < lines.size(); index++)   
+      {
+            
+            
+          /*********************************/
+          /* LOOK IF DELIVERY IS COMING    */
+          /*********************************/
+              
+           if (lines.get(index).equals("Commercial Invoice"))
+           {
+              commercialInvoiceFound = true;           
+           }
+          
+           
+           /******************************/
+           /*      GET START INDEX       */
+           /******************************/
+               
+           if (commercialInvoiceFound && 
+               !invoiceStartFound
+               )
+           {           
+              invoiceStartIndex = index;
+              invoiceStartFound = true;          
+           }
+           
+           /******************************/
+           /*      GET END INDEX         */
+           /******************************/
+           if ( lines.get(index).length() > 20 &&
+                lines.get(index).substring(0, 20).equals("Ultimate Destination"))
+           {
+              ultimateDestinationFound = true;           
+           }
+           
+           if(invoiceStartFound &&
+                 ultimateDestinationFound)
+           {
+              invoiceEndIndex = index;
+              //Testing
+              //System.out.println("The start index " + invoiceStartIndex + " the ending " + invoiceEndIndex);
+
+              insertIndexIntoArray(indexesRow, invoiceStartIndex, invoiceEndIndex);
+              
+              indexesRow++;
+              
+              //Count how many invoices
+              invoiceCount++;
+                           
+              //reset flags
+              commercialInvoiceFound = false;
+              invoiceStartFound = false;
+              ultimateDestinationFound = false;
+           }
+           
+           //Testing
+           /**
+           if (ProcessInvoice.lines[index].length() <= 26 && ProcessInvoice.lines[index].length() > 12)
+           {
+              if (ProcessInvoice.lines[index].substring(0, 1).equals("8"))
+              {
+                 //System.out.println("from delivery check " + ProcessInvoice.lines[index].substring(0, 9));
+              }
+           }      
+           **/
+         } // END LOOP
+         /****************************************/
+         /*      END INVOICE EXTRACT LOOP        */
+         /****************************************/
+         
+        // For Testing 
+        //testArrayList();
+      
+      InvoiceExtractor extract = new InvoiceExtractor(startIndexArray, endIndexArray, lines);
+      
+      lines.removeAll(lines);
+      startIndexArray.removeAll(startIndexArray);
+      endIndexArray.removeAll(endIndexArray);
          
       }
    
